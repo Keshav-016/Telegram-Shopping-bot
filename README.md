@@ -8,7 +8,7 @@
 
 ##### a. Fork the project repository on GitHub.
 ##### b. Clone the forked repository to your local machine.
-##### c. Install the necessary libraries and frameworks for your chosen programming language.
+##### c. Install the necessary libraries(Telegram-bot,pandas and openpyxl) and frameworks for your chosen programming language.
 ##### d. Create a virtual environment for your project to isolate it from your global environment.
 ##### e. Set up a database to store product information, orders, and user data.
 
