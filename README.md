@@ -15,11 +15,11 @@
 
 ## Project Features
 
-##### a. User Authentication: Users can create an account, log in, and manage their profile information.
-##### b. Product Catalog: Users can browse, search, and filter products by category or keyword.
-##### c. Shopping Cart: Users can add and remove products from their shopping cart, view their cart contents, and proceed to checkout.
-##### d. Payment Integration: The bot is integrated with a payment gateway to allow users to pay for their orders securely.
-##### e. Admin Panel: Admins can manage product information, order status, and user accounts.
+##### a. Product Catalog: Users can browse, search, and filter products by category or keyword.
+##### b. Shopping Cart: Users can add and remove products from their shopping cart, view their cart contents, and proceed to checkout.
+##### c. Payment Integration: The bot is integrated with a payment gateway to allow users to pay for their orders securely.
+##### d. Admin Panel: Admins can check product information, order status, and user accounts.
+##### e. Discount : It provides various discount coupons based on your cart value.
 
 ## Conclusion
 
